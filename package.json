@@ -54,10 +54,11 @@
             "@types/qrcode": "^1.5.5",
             "@types/react": "^19.1.13",
             "@vitejs/plugin-react-swc": "^3.10.2",
-            "vite": "6.3.5"
+            "vite": "^6.3.5"
       },
       "scripts": {
             "dev": "vite",
-            "build": "vite build"
+            "build": "vite build",
+            "preview": "vite preview"
       }
 }
